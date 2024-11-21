@@ -1,5 +1,5 @@
+import { jbmono } from '@/app/fonts/fonts';
 import type { Metadata } from 'next';
-import { jbmono } from './fonts/fonts';
 import './globals.css';
 
 export const metadata: Metadata = {
