@@ -4,7 +4,8 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'NextJS Template',
-  description: 'A NextJS template with SupaBase',
+  description:
+    'A nextjs template with shadcn components and supabase for auth & backend',
 };
 
 export default function RootLayout({
