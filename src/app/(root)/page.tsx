@@ -36,7 +36,7 @@ export default function Home() {
         </a>
         <a
           className="flex flex-auto items-center gap-2 hover:underline hover:underline-offset-4 hover:font-bold"
-          href="https://vauth.command.verkada.com/embed/html/97175a8a-9d8d-4dd8-95f2-fdb9f8811b76/"
+          href="https://shorelinebeachcafe.com/surf-cams/"
           target="_blank"
           rel="noopener noreferrer"
         >
